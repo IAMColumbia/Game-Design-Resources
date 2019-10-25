@@ -16,4 +16,4 @@ Contributions to any of the resources are welcome. You can suggest a change to a
 The resources are written in Markdown, a lightweight markup language, that is great for embedding code snippets. Here are a couple references for learning Markdown:
 
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - 3 minute read that explains the syntax.
-- [Interactive Tutorial](https://www.markdowntutorial.com) - an interactive tutorial that walks you through writting markdown. 
+- [Interactive Tutorial](https://www.markdowntutorial.com) - an interactive tutorial that walks you through writing markdown. 
