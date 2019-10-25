@@ -2,6 +2,8 @@
 
 A collections of resources for the Game Design program in [Interactive Arts and Media](https://iam.colum.edu/iamwp/) at [Columbia College Chicago](https://www.colum.edu/).
 
+![IAM Logo](Images/IAM-Logo-Lockup.png)
+
 ## Table of Contents for this Repository
 
 - [Unity Best Practices and Style Guide](https://github.com/IAMColumbia/Game-Design-Resources/blob/master/Unity%20Coding%20Best%20Practices%20and%20Style%20Guide.md)
