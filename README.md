@@ -2,7 +2,7 @@
 
 A collections of resources for the Game Design program in [Interactive Arts and Media](https://iam.colum.edu/iamwp/) at [Columbia College Chicago](https://www.colum.edu/).
 
-![IAM Logo](Images/IAM-Logo-Lockup.png)
+[![IAM Logo](Images/IAM-Logo-Lockup.png)](https://iam.colum.edu/iamwp/)
 
 ## Table of Contents for this Repository
 
