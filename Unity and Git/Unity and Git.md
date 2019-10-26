@@ -20,6 +20,8 @@ There are two setup options for Git & LFS with your Unity project:
 - Unity project at the root of your Git repository. See [here](./Unity%20Project%20as%20Root/).
 - Unity project in a subdirectory of your Git repository. See [here](./Unity%20Project%20as%20Subdirectory/).
 
+If you need a more customized solution, start with one of those templates and then dig deeper into .gitignore syntax to fit your needs. This [guide](https://www.atlassian.com/git/tutorials/saving-changes/gitignore) provides a good overview. 
+
 ## Resources
 
 - [Version control: Effective use, issues and thoughts, from a gamedev perspective](https://www.what-could-possibly-go-wrong.com/version-control/) - a good overview of the uses and challenges of version control in game dev
