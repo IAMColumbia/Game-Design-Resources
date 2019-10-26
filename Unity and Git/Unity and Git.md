@@ -17,8 +17,8 @@ TODO
 
 There are two setup options for Git & LFS with your Unity project:
 
-- Unity project at the root of your Git repository.
-- Unity project in a subdirectory of your Git repository.
+- Unity project at the root of your Git repository. See [here](./Unity%20Project%20as%20Root/).
+- Unity project in a subdirectory of your Git repository. See [here](./Unity%20Project%20as%20Subdirectory/).
 
 ## Resources
 
