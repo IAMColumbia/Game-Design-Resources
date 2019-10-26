@@ -22,7 +22,11 @@ TODO: music/sfx
 
 ## Art
 
-TODO: 2D art, 3d art
+TODO: 2D art, 3d art, UI packs
+
+## Typography
+
+TODO: d/ling from google fonts, font squirrel, etc.
 
 ## Uncategorized Resources
 
