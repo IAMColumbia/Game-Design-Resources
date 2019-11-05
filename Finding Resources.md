@@ -54,3 +54,4 @@ TODO: pasted from Mike's midterm, but need to sort and merge in David's resource
   - [Open Music Archive](http://openmusicarchive.org/index.php)
   - [incompetech](https://incompetech.com/)
   - [ccmixter](http://ccmixter.org/)
+  - [James Hammond](https://jameshammondrf.bandcamp.com/) - a couple quality albums of free game music loops
