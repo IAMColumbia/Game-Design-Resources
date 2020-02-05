@@ -53,9 +53,11 @@ TODO: 2D art, 3d art, UI packs
 
 ## Typography
 
+- [Anna Anthropy's World of Fonts](https://w.itch.io/world-of-fonts) Good pixel art fonts.
 - [Google Fonts](https://fonts.google.com/) - open source fonts. The license is noted on each font page. You can download the fonts following [these instructions](https://developers.google.com/fonts/faq#can_i_download_the_fonts_on_google_fonts_to_my_own_computer)
 - [FontSquirrel](https://www.fontsquirrel.com/) - many free fonts. License is noted on each font page. 
 
 ## User Interface
 
 - [Kenney UI Packs](https://www.kenney.nl/assets?q=ui) - mostly, if not all, licensed under CC0 1.0 Universal (CC0 1.0).
+- [Keyboard / Controller Keys](https://hyohnoo.itch.io/keyboard-controller-keys) - Good pixel art Xbox, Playstation, and PC button / keyboard button icons for use in tutorials, etc. 
