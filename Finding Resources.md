@@ -22,11 +22,13 @@ TODO: music/sfx
 - https://www.purple-planet.com/
 
 ## Art
-
 TODO: 2D art, 3d art, UI packs
+### UI
+- https://hyohnoo.itch.io/keyboard-controller-keys
 
 ## Typography
 
+- https://w.itch.io/world-of-fonts
 TODO: d/ling from google fonts, font squirrel, etc.
 
 ## Uncategorized Resources
