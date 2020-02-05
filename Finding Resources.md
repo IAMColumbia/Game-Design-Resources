@@ -18,8 +18,18 @@ TODO: things like Unity asset store
 
 ## Audio Resources
 
-TODO: music/sfx
-- https://www.purple-planet.com/
+Music:
+- [Purple Planet](https://www.purple-planet.com/)
+- [YouTube Music](https://www.youtube.com/audiolibrary/music?nv=1)
+- [James Hammond](https://jameshammondrf.bandcamp.com/) - a couple quality albums of free game music loops.
+- [Free Music Archive](https://freemusicarchive.org/)
+- [Open Music Archive](http://openmusicarchive.org/index.php)
+- [incompetech](https://incompetech.com/)
+- [ccmixter](http://ccmixter.org/)
+
+SFX:
+- [bfxr](https://www.bfxr.net/) or [jfxr](https://jfxr.frozenfractal.com/) - 8-bit sound generator.
+- [freesound](https://freesound.org/) - tons of free sound recordings.
 
 ## Art
 
@@ -53,11 +63,4 @@ TODO: pasted from Mike's midterm, but need to sort and merge in David's resource
 - [Itch.io Free Game Assets](https://itch.io/game-assets/free)
 - [r/gameassets](https://www.reddit.com/r/gameassets/) - mix of sound, music, 2D and 3D 
 - Music/Sound
-  - [bfxr](https://www.bfxr.net/) or [jfxr](https://jfxr.frozenfractal.com/) - 8-bit sound generator
-  - [YouTube Music](https://www.youtube.com/audiolibrary/music?nv=1)
-  - [freesound](https://freesound.org/) - tons of free sound recordings
-  - [Free Music Archive](https://freemusicarchive.org/)
-  - [Open Music Archive](http://openmusicarchive.org/index.php)
-  - [incompetech](https://incompetech.com/)
-  - [ccmixter](http://ccmixter.org/)
-  - [James Hammond](https://jameshammondrf.bandcamp.com/) - a couple quality albums of free game music loops
+
