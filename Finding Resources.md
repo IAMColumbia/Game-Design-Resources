@@ -22,14 +22,13 @@ TODO: music/sfx
 - https://www.purple-planet.com/
 
 ## Art
+
 TODO: 2D art, 3d art, UI packs
-### UI
-- https://hyohnoo.itch.io/keyboard-controller-keys
 
 ## Typography
 
-- https://w.itch.io/world-of-fonts
-TODO: d/ling from google fonts, font squirrel, etc.
+- [Google Fonts](https://fonts.google.com/) - open source fonts. The license is noted on each font page. You can download the fonts following [these instructions](https://developers.google.com/fonts/faq#can_i_download_the_fonts_on_google_fonts_to_my_own_computer)
+- [FontSquirrel](https://www.fontsquirrel.com/) - many free fonts. License is noted on each font page. 
 
 ## Uncategorized Resources
 
