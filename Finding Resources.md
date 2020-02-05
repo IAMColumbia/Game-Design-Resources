@@ -3,6 +3,8 @@
 ## Giving Credit
 
 TODO: importance of checking licenses, giving credit and appropriate ways to give credit
+- [Understanding Licenses, or, “Can I Use This Asset In My Game?”](https://gamedevelopment.tutsplus.com/articles/understanding-licenses-or-can-i-use-this-asset-in-my-game--cms-22510)
+- ["Where am I obligated to put credits?"](https://gamedev.stackexchange.com/a/108447) - follow the rules laid out in each asset's license and check out [the IGDA crediting standards](https://s3-us-east-2.amazonaws.com/igda-website/wp-content/uploads/2014/08/21170013/IGDA_Game_Crediting_Guide_Draft_9-2-EN-2014.pdf).
 
 ## Tips for Finding Quality Resources
 
