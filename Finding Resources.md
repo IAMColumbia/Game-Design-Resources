@@ -29,6 +29,7 @@ TODO: importance of checking licenses, giving credit and appropriate ways to giv
 ## Audio Resources
 
 ### Music
+
 - [Purple Planet](https://www.purple-planet.com/)
 - [YouTube Music](https://www.youtube.com/audiolibrary/music?nv=1)
 - [James Hammond](https://jameshammondrf.bandcamp.com/) - a couple quality albums of free game music loops.
@@ -36,14 +37,21 @@ TODO: importance of checking licenses, giving credit and appropriate ways to giv
 - [Open Music Archive](http://openmusicarchive.org/index.php)
 - [incompetech](https://incompetech.com/)
 - [ccmixter](http://ccmixter.org/)
+- [Antti Luode's Instrumentals](https://www.reddit.com/r/gameassets/comments/ewo5iu/i_have_released_my_2000_instrumental_pieces_free/) - 2000+ instrumental pieces, CC BY 3.0
 
 ### SFX
+
 - [bfxr](https://www.bfxr.net/) or [jfxr](https://jfxr.frozenfractal.com/) - 8-bit sound generator.
 - [freesound](https://freesound.org/) - tons of free sound recordings.
+- [PMSFX Sampler](https://www.pmsfx.com/free) - 558 royalty-free SFX and ambient sounds.
 
 ## Art
 
 ### 2D 
+
+- [gameart2d.com](https://www.gameart2d.com/freebies.html) - CC0 licensed freebies including animated character sprites, tilesets and GUI.
+- [PixelTrees](https://wubs.itch.io/pixeltrees) - pixel art tree generator.
+- ["Universal" 2D Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator) - 2D sprite character creator, dual-licensed as GPL3 and CC-BY-SA3.
 
 ### 3D
 
@@ -51,6 +59,7 @@ TODO: importance of checking licenses, giving credit and appropriate ways to giv
 
 ### User Interface
 
+- [Game-icons.net](https://game-icons.net/) - CC BY 3.0, a ton of vector icons, with an in-browser editor for customizing background/color/text.
 - [Kenney UI Packs](https://www.kenney.nl/assets?q=ui) - mostly, if not all, licensed under CC0 1.0 Universal (CC0 1.0).
 - [Keyboard / Controller Keys](https://hyohnoo.itch.io/keyboard-controller-keys) - Good pixel art Xbox, Playstation, and PC button / keyboard button icons for use in tutorials, etc. 
 
