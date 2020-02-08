@@ -8,15 +8,9 @@ TODO: importance of checking licenses, giving credit and appropriate ways to giv
 
 ## Tips for Finding Quality Resources
 
-- One general tip in looking for any assets - whether it's 3D models, UI elements or audio - try to find an asset pack. Kenney (link below) is a wonderful resource for that. You can also search for things like "modular" or "asset pack" when looking on game art sites or the asset store. This will help give you a coherent set of assets to work with, instead of stringing together a series of disparate parts.
-
-## Internal Resources
-
-TODO: can we get art/sound/etc. students to open source some of their work and contribute it to this collection?
+- One general tip in looking for any assets - whether it's 3D models, UI elements or audio - try to find an asset pack. [Kenney](https://www.kenney.nl/assets) is a wonderful resource for that. You can also search for things like "modular" or "asset pack" when looking on game art sites or the asset store. This will help give you a coherent set of assets to work with, instead of stringing together a series of disparate parts.
 
 ## General Resources
-
-TODO: things like Unity asset store
 
 - [Itch.io Free Game Assets](https://itch.io/game-assets/free)
 - [Unity asset store](https://assetstore.unity.com/)
@@ -34,7 +28,7 @@ TODO: things like Unity asset store
 
 ## Audio Resources
 
-Music:
+### Music
 - [Purple Planet](https://www.purple-planet.com/)
 - [YouTube Music](https://www.youtube.com/audiolibrary/music?nv=1)
 - [James Hammond](https://jameshammondrf.bandcamp.com/) - a couple quality albums of free game music loops.
@@ -43,7 +37,7 @@ Music:
 - [incompetech](https://incompetech.com/)
 - [ccmixter](http://ccmixter.org/)
 
-SFX:
+### SFX
 - [bfxr](https://www.bfxr.net/) or [jfxr](https://jfxr.frozenfractal.com/) - 8-bit sound generator.
 - [freesound](https://freesound.org/) - tons of free sound recordings.
 
@@ -66,4 +60,7 @@ SFX:
 - [Google Fonts](https://fonts.google.com/) - open source fonts. The license is noted on each font page. You can download the fonts following [these instructions](https://developers.google.com/fonts/faq#can_i_download_the_fonts_on_google_fonts_to_my_own_computer)
 - [FontSquirrel](https://www.fontsquirrel.com/) - many free fonts. License is noted on each font page. 
 
+## Internal Resources
+
+TODO: can we get art/sound/etc. students to open source some of their work and contribute it to this collection?
 
