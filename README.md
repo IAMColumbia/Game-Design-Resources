@@ -6,7 +6,7 @@ A collections of resources for the Game Design program in [Interactive Arts and 
 
 ## Table of Contents for this Repository
 
-- [Unity Best Practices and Style Guide](./Unity%20Coding%20Best%20Practices%20and%20Style%20Guide.md)
+- [Unity Best Practices and Style Guide](./Unity%20Coding%20Best%20Practices%20and%20Style%20Guide/README.md)
 - [Guide to Finding Open/Licensable Media Resources for Games](./Finding%20Resources.md)
 - [Templates for Unity + Git + Git LFS](./Unity%20and%20Git/Unity%20and%20Git.md)
 
