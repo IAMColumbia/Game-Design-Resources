@@ -38,6 +38,7 @@ TODO: importance of checking licenses, giving credit and appropriate ways to giv
 - [incompetech](https://incompetech.com/)
 - [ccmixter](http://ccmixter.org/)
 - [Antti Luode's Instrumentals](https://www.reddit.com/r/gameassets/comments/ewo5iu/i_have_released_my_2000_instrumental_pieces_free/) - 2000+ instrumental pieces, CC BY 3.0
+- [Sample Focus](https://samplefocus.com/) - short loops and some sfx
 
 ### SFX
 
