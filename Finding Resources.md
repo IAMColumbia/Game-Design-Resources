@@ -31,7 +31,7 @@ TODO: importance of checking licenses, giving credit and appropriate ways to giv
 ### Music
 
 - [Purple Planet](https://www.purple-planet.com/)
-- [YouTube Music](https://www.youtube.com/audiolibrary/music?nv=1)
+- [YouTube Music](https://studio.youtube.com/channel/UCOz1XW-PZLZ6KGfGnD1sAiQ/music)
 - [James Hammond](https://jameshammondrf.bandcamp.com/) - a couple quality albums of free game music loops.
 - [Free Music Archive](https://freemusicarchive.org/)
 - [Open Music Archive](http://openmusicarchive.org/index.php)
