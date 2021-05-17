@@ -7,6 +7,7 @@ This is a work-in-progress combining:
 - [Mike's GES C# style guide](https://github.com/mikewesthad/Columbia-GES-FA2019/blob/master/unity-c%23-style-guide.md)
 
 TODO: create a style cop config (or some other other linter/formatter)
+TODO: work in this resource (and it's linked resources!) https://blog.ploeh.dk/2019/11/04/the-80-24-rule/
 
 Contributions welcome!
 
