@@ -61,6 +61,7 @@ TODO: importance of checking licenses, giving credit and appropriate ways to giv
 - [Mixamo](https://www.mixamo.com/) - Free character models and tons of free animations, as well as an autorigging tool. This is incredibly useful for 3D games when you don't have a character animator.
 - [Sketchfab](https://sketchfab.com/) - Lots of standalone 3D models. Just be careful to filter by "downloadable" and double check the license. Normally the top listed items are paid, but there are several free options if you look.
 - [cgtrader](https://www.cgtrader.com/) - storefront for 3D models with some free options.
+- [TreeIt](http://www.evolved-software.com/treeit/treeit) - free tree and foliage generator
 
 ### User Interface
 
