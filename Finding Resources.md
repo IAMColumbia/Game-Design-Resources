@@ -71,6 +71,7 @@ TODO: importance of checking licenses, giving credit and appropriate ways to giv
 
 ## Typography
 
+- [Font end dev](https://fontenddev.com/fonts/) - nice looking pixel art fonts
 - [Anna Anthropy's World of Fonts](https://w.itch.io/world-of-fonts) - Good pixel art fonts.
 - [Google Fonts](https://fonts.google.com/) - open source fonts. The license is noted on each font page. You can download the fonts following [these instructions](https://developers.google.com/fonts/faq#can_i_download_the_fonts_on_google_fonts_to_my_own_computer)
 - [FontSquirrel](https://www.fontsquirrel.com/) - many free fonts. License is noted on each font page. 
