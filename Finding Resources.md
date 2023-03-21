@@ -45,6 +45,7 @@ TODO: importance of checking licenses, giving credit and appropriate ways to giv
 - [bfxr](https://www.bfxr.net/) or [jfxr](https://jfxr.frozenfractal.com/) - 8-bit sound generator.
 - [freesound](https://freesound.org/) - tons of free sound recordings.
 - [PMSFX Sampler](https://www.pmsfx.com/free) - 558 royalty-free SFX and ambient sounds.
+- [Sonniss GDC sfx packs](https://sonniss.com/gameaudiogdc) many free audio assets, not very well cataloged, just giant packs to download given away in celebration of GDC
 
 ## Art
 
