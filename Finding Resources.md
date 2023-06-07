@@ -57,6 +57,7 @@ TODO: importance of checking licenses, giving credit and appropriate ways to giv
 
 ### 3D
 
+- [sharetextures](https://www.sharetextures.com/) - Free PBR textures
 - [The Base Mesh](https://thebasemesh.com/) - Free greybox / low poly base meshes for Digital Sculpting, creating a High or Low poly model, Game Prototyping,  draw-overs for concepting
 - [Make Human](http://www.makehumancommunity.org/) - opensource gui-based 3D character generator
 - [Mixamo](https://www.mixamo.com/) - Free character models and tons of free animations, as well as an autorigging tool. This is incredibly useful for 3D games when you don't have a character animator.
