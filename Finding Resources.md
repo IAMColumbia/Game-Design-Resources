@@ -57,6 +57,8 @@ TODO: importance of checking licenses, giving credit and appropriate ways to giv
 
 ### 3D
 
+- [ambientCG](https://ambientcg.com/) - free materials
+- [Poly Haven](https://polyhaven.com/) - free models, textures, and HDRI
 - [sharetextures](https://www.sharetextures.com/) - Free PBR textures
 - [The Base Mesh](https://thebasemesh.com/) - Free greybox / low poly base meshes for Digital Sculpting, creating a High or Low poly model, Game Prototyping,  draw-overs for concepting
 - [Make Human](http://www.makehumancommunity.org/) - opensource gui-based 3D character generator
