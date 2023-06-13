@@ -57,6 +57,7 @@ TODO: importance of checking licenses, giving credit and appropriate ways to giv
 
 ### 3D
 
+- [Texture Channel Mixer](https://assetstore.unity.com/packages/tools/utilities/texture-channel-mixer-180690) - tool for setting up mask / detail / metalic maps into RGBA channels for [URP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@16.0/manual/lit-shader.html) / [HDRP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@16.0/manual/Mask-Map-and-Detail-Map.html) 
 - [ambientCG](https://ambientcg.com/) - free materials
 - [Poly Haven](https://polyhaven.com/) - free models, textures, and HDRI
 - [sharetextures](https://www.sharetextures.com/) - Free PBR textures
