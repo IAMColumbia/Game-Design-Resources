@@ -71,6 +71,7 @@ TODO: importance of checking licenses, giving credit and appropriate ways to giv
 
 ### User Interface
 
+- [keyboard layout editor](http://www.keyboard-layout-editor.com/) - Useful for making images of keyboard control layouts
 - [Game-icons.net](https://game-icons.net/) - CC BY 3.0, a ton of vector icons, with an in-browser editor for customizing background/color/text.
 - [Kenney UI Packs](https://www.kenney.nl/assets?q=ui) - mostly, if not all, licensed under CC0 1.0 Universal (CC0 1.0).
 - [Keyboard / Controller Keys](https://hyohnoo.itch.io/keyboard-controller-keys) - Good pixel art Xbox, Playstation, and PC button / keyboard button icons for use in tutorials, etc. 
