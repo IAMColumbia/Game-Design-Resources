@@ -1,4 +1,11 @@
-# Finding Resources
+# Tools
+
+## Video Editing
+
+- [DaVinci Reslove](https://www.blackmagicdesign.com/products/davinciresolve)
+- [Shotcut](https://www.shotcut.org/)
+
+# Assets
 
 ## Giving Credit
 
