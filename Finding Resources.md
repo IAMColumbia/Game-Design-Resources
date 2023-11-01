@@ -75,6 +75,7 @@ TODO: importance of checking licenses, giving credit and appropriate ways to giv
 - [Sketchfab](https://sketchfab.com/) - Lots of standalone 3D models. Just be careful to filter by "downloadable" and double check the license. Normally the top listed items are paid, but there are several free options if you look.
 - [cgtrader](https://www.cgtrader.com/) - storefront for 3D models with some free options.
 - [TreeIt](http://www.evolved-software.com/treeit/treeit) - free tree and foliage generator
+- [Retro 3D Collection](https://github.com/Miziziziz/Retro3DGraphicsCollection) - collection of free retro 3D art assets for things like PS1 art style games, etc.
 
 ### User Interface
 
