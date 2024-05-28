@@ -32,6 +32,10 @@ TODO: importance of checking licenses, giving credit and appropriate ways to giv
   - 3D examples: [block characters](https://www.kenney.nl/assets/3d-characters), [fantasy town](https://www.kenney.nl/assets/fantasy-town-kit)
   - Audio examples: [RPG audio](https://www.kenney.nl/assets/rpg-audio), [music jingles](https://www.kenney.nl/assets/music-jingles)
   - A few other packs from Kenney are available on [OpenGameArt](https://opengameart.org/users/kenney)
+ 
+## Functionality / Gameplay
+
+- [Gold Player](https://github.com/Hertzole/gold-player) - robust open source Unity first person character controller, dev is stopped but works well Unity 2019.4 through Unity 2022.3
 
 ## Audio Resources
 
