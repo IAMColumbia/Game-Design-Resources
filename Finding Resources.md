@@ -80,6 +80,7 @@ TODO: importance of checking licenses, giving credit and appropriate ways to giv
 - [cgtrader](https://www.cgtrader.com/) - storefront for 3D models with some free options.
 - [TreeIt](http://www.evolved-software.com/treeit/treeit) - free tree and foliage generator
 - [Retro 3D Collection](https://github.com/Miziziziz/Retro3DGraphicsCollection) - collection of free retro 3D art assets for things like PS1 art style games, etc.
+- [poly.pizza](https://poly.pizza/) - low poly models with a public domain search filter.
 
 ### User Interface
 
