@@ -50,6 +50,7 @@ TODO: importance of checking licenses, giving credit and appropriate ways to giv
 - [ccmixter](http://ccmixter.org/)
 - [Antti Luode's Instrumentals](https://www.reddit.com/r/gameassets/comments/ewo5iu/i_have_released_my_2000_instrumental_pieces_free/) - 2000+ instrumental pieces, CC BY 3.0
 - [Sample Focus](https://samplefocus.com/) - short loops and some sfx
+- [MusMus](https://musmus.main.jp/music_game.html) - used to compose music for PC-98 games and now he makes royalty free music on the side
 
 ### SFX
 
