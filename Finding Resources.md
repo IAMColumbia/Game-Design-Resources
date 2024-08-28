@@ -66,7 +66,7 @@ TODO: importance of checking licenses, giving credit and appropriate ways to giv
 - [gameart2d.com](https://www.gameart2d.com/freebies.html) - CC0 licensed freebies including animated character sprites, tilesets and GUI.
 - [PixelTrees](https://wubs.itch.io/pixeltrees) - pixel art tree generator.
 - ["Universal" 2D Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator) - 2D sprite character creator, dual-licensed as GPL3 and CC-BY-SA3.
-- [Library of Congress](https://www.loc.gov/) - Public domain photos!
+- [Library of Congress](https://www.loc.gov/) - Public domain stock photos and high res scans of full art pieces you could use as backgrounds or ui
 
 ### 3D
 
